@@ -1,0 +1,14 @@
+name = Everecence
+print (name)
+status = "Loading Game..."
+status = "Loading Game.."
+status = "Loading Game."
+status = "Loading Game.."
+status = "Loading Game..."
+"Hello, and welcome!"
+"Before you begin, there is a small issue we must clear."
+"This game contains sensitive content, and there are scenes that may trigger epilepsy."
+"This includes: Suicide, Self-harm, Anxiety, Body Dysmporphia and Abuse."
+"Viewer discretion is advised."
+status= "Everecence"
+print (status)
